@@ -1,6 +1,6 @@
 <div align="center">
 
-# hey, I'm Khaled
+# Hey, I'm Khaled
 
 CS grad from Queens College, May 2024. I take ideas to production.
 
