@@ -1,6 +1,15 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Khaled+Ahmed+%7C+CS+%2724;Taking+ideas+to+production.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Taking+ideas+to+production.)](https://git.io/typing-svg)
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled2143&show_icons=true&theme=dark&hide_border=true&title_color=F5A623&icon_color=F5A623&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled2143&layout=compact&theme=dark&hide_border=true&title_color=F5A623&text_color=ffffff&bg_color=0d1117)
+
+<br/>
+
+![Snake animation](https://github.com/Khaled2143/Khaled2143/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
