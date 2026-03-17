@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Engineer+by+day.;RuneScape+veteran+by+night.;Always+in+the+gym.;Always+shipping.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=F5A623&center=true&vCenter=true&width=600&lines=Engineer+by+day.;RuneScape+veteran+by+night.;Always+in+the+gym.;Always+shipping.)](https://git.io/typing-svg)
 
 
 ![Snake animation](https://github.com/Khaled2143/Khaled2143/blob/output/github-contribution-grid-snake-dark.svg)
@@ -11,7 +11,7 @@
 
 ```bash
 $ whoami
-khaled@dev:~$ CS grad, Queens College '24. I take ideas to production.
+khaled@dev:~$ CS grad, Queens College '24.
 
 $ cat links.txt
 LinkedIn  → linkedin.com/in/khaled-ahmed1
