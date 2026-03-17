@@ -1,11 +1,10 @@
-```
-██╗  ██╗██╗  ██╗ █████╗ ██╗     ███████╗██████╗
-██║ ██╔╝██║  ██║██╔══██╗██║     ██╔════╝██╔══██╗
-█████╔╝ ███████║███████║██║     █████╗  ██║  ██║
-██╔═██╗ ██╔══██║██╔══██║██║     ██╔══╝  ██║  ██║
-██║  ██╗██║  ██║██║  ██║███████╗███████╗██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Khaled+Ahmed+%7C+CS+%2724;Taking+ideas+to+production.;)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ```bash
 $ whoami
